@@ -1,0 +1,25 @@
+{
+	"localeFilter": {
+		"filterType": "locale",
+		"includeChildren": false,
+		"whitelist": [
+			"da_DK",
+			"de_DE",
+			"en_US",
+			"es",
+			"es_MX",
+			"fi_FI",
+			"fr",
+			"fr_CA",
+			"it",
+			"ja",
+			"nb_NO",
+			"nl",
+			"pt_PT",
+			"pt_BR",
+			"sv_SE",
+			"tr",
+			"zh-TW"
+		 ]
+	}
+}
