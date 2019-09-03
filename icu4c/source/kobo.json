@@ -19,7 +19,25 @@
 			"pt_BR",
 			"sv_SE",
 			"tr",
+			"zh-HK",
 			"zh-TW"
 		 ]
+	},
+	"featureFilters": {
+		"conversion_mappings": {
+			"filterType": "regex",
+			"blacklist": [
+				"^ibm*"
+			]
+		},
+		"confusables": {
+			"filterType": "exclude"
+		},
+		"curr_tree": {
+			"filterType": "exclude"
+		},
+		"unit_tree": {
+			"filterType": "exclude"
+		}
 	}
 }
