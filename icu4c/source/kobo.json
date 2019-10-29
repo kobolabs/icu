@@ -3,6 +3,7 @@
 		"filterType": "locale",
 		"includeChildren": false,
 		"whitelist": [
+			"ca",
 			"da_DK",
 			"de_DE",
 			"en_US",
@@ -19,6 +20,7 @@
 			"pt_BR",
 			"sv_SE",
 			"tr",
+			"zh-CN",
 			"zh-HK",
 			"zh-TW"
 		 ]
