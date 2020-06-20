@@ -20,9 +20,9 @@
 			"pt_BR",
 			"sv_SE",
 			"tr",
-			"zh-CN",
-			"zh-HK",
-			"zh-TW"
+			"zh_CN",
+			"zh_HK",
+			"zh_TW"
 		 ]
 	},
 	"featureFilters": {
