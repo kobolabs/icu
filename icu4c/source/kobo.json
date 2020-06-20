@@ -40,6 +40,12 @@
 		},
 		"unit_tree": {
 			"filterType": "exclude"
+		},
+		"zone_tree": {
+			"filterType": "exclude"
+		},
+		"unames": {
+			"filterType": "exclude"
 		}
 	}
 }
